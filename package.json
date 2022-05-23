@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/kelderpassos/render-with-router.git"
   },
-  "keywords": ["render with router", "react-testing-library", "react testing", "render with router import"],
+  "keywords": [
+    "render with router",
+    "react-testing-library",
+    "react testing",
+    "render with router import"
+  ],
   "author": "Kelder Mendonça Passos",
   "license": "ISC",
   "bugs": {

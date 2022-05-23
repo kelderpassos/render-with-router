@@ -1,0 +1,20 @@
+{
+  "name": "renderwithrouter",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Package for importing the function Render With Router</h1>",
+  "main": "renderWithRouter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelderpassos/render-with-router.git"
+  },
+  "keywords": ["render with router", "react-testing-library", "react testing", "render with router import"],
+  "author": "Kelder Mendonça Passos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelderpassos/render-with-router/issues"
+  },
+  "homepage": "https://github.com/kelderpassos/render-with-router#readme"
+}
